@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This project is a Python-based simulator created for the B206 Operating Systems module. Its purpose is to implement and analyze core operating system concepts in a practical setting. The simulator models the execution of processes in a single-CPU environment, focusing on the interplay between CPU scheduling and contiguous memory allocation.
+This project is a Python-based simulator . Its purpose is to implement and analyze core operating system concepts in a practical setting. The simulator models the execution of processes in a single-CPU environment, focusing on the interplay between CPU scheduling and contiguous memory allocation.
 
 The primary goal is to compare the performance of two non-preemptive scheduling algorithms—First-Come, First-Served (FCFS) and Shortest-Job-First (SJF)—to observe their impact on system performance metrics like waiting time and turnaround time.
 
