@@ -1,4 +1,4 @@
-# B206 Operating Systems - Process Scheduling & Memory Management Simulator
+
 
 ## 1. Project Overview
 
