@@ -1,0 +1,9 @@
+This file contains the process data for the simulator.
+Format: ProcessID,ArrivalTime,BurstTime,MemoryRequirement(MB)
+A sample workload for testing and demonstration.
+This workload is good for showing the difference between FCFS and SJF.
+P1,0,8,250
+P2,1,4,300
+P3,2,2,100
+P4,3,5,400
+P5,4,3,150
